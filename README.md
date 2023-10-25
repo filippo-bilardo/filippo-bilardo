@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on C++, PHP, Java, Javascript, CSS and HTML5 Development
+
 <!--
 **filippo-bilardo/filippo-bilardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
