@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on C++, PHP, Java, Javascript, CSS and HTML5 Development
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <!--
 **filippo-bilardo/filippo-bilardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
