@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C++, PHP, Java, Javascript, CSS and HTML5 Development
+- 🔭 I’m currently working on C++, PHP, Java, Javascript, CSS and HTML5 Development, Linux
+- 🌱 I’m currently learning Tauri, Rust, Node.js, React, Electron, Solid.js, Docker
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
