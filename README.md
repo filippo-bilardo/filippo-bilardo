@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on C++, PHP, Java, Javascript, CSS and HTML5 Development, Linux
 - 🌱 I’m currently learning Tauri, Rust, Node.js, React, Electron, Solid.js, Docker
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=filippo-bilardo&color=green)
 
 <!--
 **filippo-bilardo/filippo-bilardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
