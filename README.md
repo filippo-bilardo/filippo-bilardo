@@ -5,12 +5,15 @@
 
 ![](https://komarev.com/ghpvc/?username=filippo-bilardo&color=green)
 
-### Collegamenti
+### Pogetti vari
+- [Blog per la didattica](https://fb-labs.blogspot.com/)
 - [Mete Turistiche - Scopri i Dintorni di Milano](https://mete.filippobilardo.it/)
 - [Idee in cucina](https://ideeincucina.filippobilardo.it/)
-- [Canale Youtube](https://www.youtube.com/@DevFilippoBilardo)
 - [Web4Student](https://w4s.filippobilardo.it/) - Ambiente di Sviluppo Linux Completo per Studenti
-- [Blog per la didattica](https://fb-labs.blogspot.com/)
+- [Canale Youtube](https://www.youtube.com/@DevFilippoBilardo)
+- [Pagina su Linkedin](https://www.linkedin.com/in/filippo-bilardo-5107814/)
+- [Progetti con microcontrollori su wokwi](https://wokwi.com/makers/filippo_bilardo)
+- [Vecchi progetti](https://fb-projects.blogspot.com/)
 
 ### Progetti ad uso personale
 - [Sistema Contabilità Veterinario](https://contabilita.filippobilardo.it/)
