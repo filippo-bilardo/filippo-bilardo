@@ -5,6 +5,12 @@
 
 ![](https://komarev.com/ghpvc/?username=filippo-bilardo&color=green)
 
+### Collegamenti
+- [https://mete.filippobilardo.it/](https://mete.filippobilardo.it/)
+- [https://ideeincucina.filippobilardo.it/](https://ideeincucina.filippobilardo.it/)
+- [Canale Youtube](https://www.youtube.com/@DevFilippoBilardo)
+- 
+
 <!--
 **filippo-bilardo/filippo-bilardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
