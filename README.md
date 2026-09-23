@@ -6,8 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=filippo-bilardo&color=green)
 
 ### Pogetti vari
-- [Blog per la didattica](https://fb-labs.blogspot.com/)
-- [Mete Turistiche - Scopri i Dintorni di Milano](https://mete.filippobilardo.it/)
+- [Sito web e blog personale](https://www.filippobilardo.it/)
+- [Mete Turistiche - Scopri i Dintorni di Milano](https://mete-turistiche.filippobilardo.it/)
 - [Idee in cucina](https://ideeincucina.filippobilardo.it/)
 - [Web4Student](https://w4s.filippobilardo.it/) - Ambiente di Sviluppo Linux Completo per Studenti
 - [Canale Youtube](https://www.youtube.com/@DevFilippoBilardo)
@@ -16,12 +16,12 @@
 - [Vecchi progetti](https://fb-projects.blogspot.com/)
 
 ### Progetti ad uso personale
-- [Sistema Contabilità Veterinario](https://contabilita.filippobilardo.it/)
+- [Sistema Contabilità Veterinario](https://contabilita-vet.filippobilardo.it/)
 - [Owncloud personale](https://owncloud.filippobilardo.it/)
 - [Immich personale](https://immich.filippobilardo.it/)
 
 ### Progetti in fase di sviluppo
-- [Blog personale](https://blog.filippobilardo.it/)
+- [Vecchio Blog usato per la didattica](https://fb-labs.blogspot.com/)
 - [Portale per web laboratorio](https://filippobilardo.it/)
 - [Gestione ospiti](https://gestione-ospiti.filippobilardo.it/)
 - [Contatore visite](https://visit-counter-api.filippobilardo.it/dashboard)
