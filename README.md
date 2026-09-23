@@ -22,7 +22,7 @@
 
 ### Progetti in fase di sviluppo
 - [Vecchio Blog usato per la didattica](https://fb-labs.blogspot.com/)
-- [Portale per web laboratorio](https://filippobilardo.it/)
+- [Portale per web laboratorio](https://info.filippobilardo.it/)
 - [Gestione ospiti](https://gestione-ospiti.filippobilardo.it/)
 - [Contatore visite](https://visit-counter-api.filippobilardo.it/dashboard)
 
